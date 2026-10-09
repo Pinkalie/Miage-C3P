@@ -26,3 +26,10 @@ La méthode checkForMate existe déjà dans le projet, mais son exécution provo
 J'ai donc commencé à suivre les différentes méthodes appelées (isCheckMated, opponentPieces, board) afin d'identifier l'origine du problème
 
 Je n'ai cependant pas encore trouvé la solution pour le échec et mat
+
+## Mes dépôts Pharo 
+[Chess](https://github.com/Pinkalie/chess)
+[Counter](https://github.com/Pinkalie/Counter)
+[SimpleLAN](https://github.com/Pinkalie/SimpleLAN)
+[Dice](https://github.com/Pinkalie/Dice)
+[EarthTutorial](https://github.com/Pinkalie/EarthTutorial)
